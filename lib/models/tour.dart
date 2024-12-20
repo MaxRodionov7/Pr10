@@ -4,3 +4,4 @@ class Tour {
 
   Tour({required this.name, required this.price});
 }
+
